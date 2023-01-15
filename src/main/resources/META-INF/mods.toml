@@ -6,9 +6,10 @@ modId="dash" #mandatory
 version="0.0.1-1.19.2" #mandatory
 displayName="A simple dash mod" #mandatory
 authors="Tim" #optional
+logoFile="Banner.png"
 
 description='''
-A simple mod that allow you to dash!
+A simple mod that allows you to dash!
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.dash]] #optional
