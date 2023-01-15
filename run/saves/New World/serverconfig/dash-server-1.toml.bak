@@ -1,0 +1,7 @@
+
+#Dash Server/World Config
+[Distance]
+	#
+	# The distance that the player dashes
+	Distance = 2
+
