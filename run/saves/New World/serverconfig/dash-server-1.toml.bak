@@ -3,5 +3,8 @@
 [Distance]
 	#
 	# The distance that the player dashes
-	Distance = 2
+	Distance = 4
 
+[Cooldown]
+	# The cooldown between the dashes
+	Cooldown = 500

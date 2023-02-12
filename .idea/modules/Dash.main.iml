@@ -4,15 +4,15 @@
     <facet type="minecraft" name="Minecraft">
       <configuration>
         <autoDetectTypes>
-          <platformType>MCP</platformType>
-          <platformType>MIXIN</platformType>
           <platformType>FORGE</platformType>
+          <platformType>MIXIN</platformType>
+          <platformType>MCP</platformType>
         </autoDetectTypes>
       </configuration>
     </facet>
   </component>
   <component name="McpModuleSettings">
-    <option name="mappingFile" value="C:\Users\timva\OneDrive\Progammeren\Minecraft Mods &amp; Plugins\Forge Mods\Dash\build\createMcpToSrg\output.tsrg" />
+    <option name="mappingFile" value="C:\Users\Tim van Naarden\OneDrive\Progammeren\Minecraft Mods &amp; Plugins\Forge Mods\Dash\build\createMcpToSrg\output.tsrg" />
     <option name="mcpVersion" value="official_1.19.2" />
     <option name="minecraftVersion" value="1.19.2" />
     <option name="platformVersion" value="43.2.3" />

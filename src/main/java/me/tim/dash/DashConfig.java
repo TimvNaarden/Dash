@@ -29,7 +29,8 @@ public class DashConfig {
         public ServerConfig(ForgeConfigSpec.Builder builder) {
             builder.comment("Dash Server/World Config");
             builder.push("Distance");
-            this.Distance = (ForgeConfigSpec.ConfigValue<Integer>)builder.comment("\n The distance that the player dashes").define("Distance", 10);
+            this.Distance = (ForgeConfigSpec.ConfigValue<Integer>)builder.comment("\n The distance that the player dashes").define("Distance", 4);
+            builder.pop();
             builder.push("Cooldown");
             this.Cooldown = (ForgeConfigSpec.ConfigValue<Integer>)builder.comment("\n The cooldown between the dashes").define("Cooldown", 100);
             builder.pop();
